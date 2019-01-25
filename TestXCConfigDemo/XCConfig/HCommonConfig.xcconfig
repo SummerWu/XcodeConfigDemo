@@ -1,0 +1,13 @@
+//
+//  HCommonConfig.xcconfig
+//  TestXCConfigDemo
+//
+//  Created by 吴杰豪 on 2019/1/22.
+//  Copyright © 2019年 吴杰豪. All rights reserved.
+//
+
+// Configuration settings file format documentation can be found at:
+// https://help.apple.com/xcode/#/dev745c5c974
+
+
+GCC_PREPROCESSOR_DEFINITIONS = $(inherited) DESC='$(DESC)'
